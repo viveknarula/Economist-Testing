@@ -1,0 +1,56 @@
+2021-03-01 21:30:34,007 INFO  [log] ************************************************************************************** 
+2021-03-01 21:30:34,008 INFO  [log] $$$$$$$$$$$$$$$$$$$$$ Starting Scenario    Validate Navigation Bar is navigating to correct pages  $$$$$$$$$$$$$$$$$$$$$ 
+2021-03-01 21:30:34,008 INFO  [log] ************************************************************************************** 
+2021-03-01 21:31:02,518 INFO  [log] ----Clicking on a webElement 
+2021-03-01 21:31:04,021 INFO  [log] getting attribute value from a webelement 
+2021-03-01 21:31:04,149 INFO  [log] Validating actual navigation value  https://jobs.economist.com/jobs/with expected value https://jobs.economist.com/jobs/ 
+2021-03-01 21:31:04,171 INFO  [log] getting attribute value from a webelement 
+2021-03-01 21:31:04,239 INFO  [log] ----Clicking on a webElement 
+2021-03-01 21:31:08,277 INFO  [log] getting attribute value from a webelement 
+2021-03-01 21:31:08,533 INFO  [log] Validating actual navigation value  https://jobs.economist.com/newalert/with expected value https://jobs.economist.com/newalert/ 
+2021-03-01 21:31:08,549 INFO  [log] getting attribute value from a webelement 
+2021-03-01 21:31:08,617 INFO  [log] ----Clicking on a webElement 
+2021-03-01 21:31:10,977 INFO  [log] getting attribute value from a webelement 
+2021-03-01 21:31:11,023 INFO  [log] Validating actual navigation value  https://jobs.economist.com/employers/with expected value https://jobs.economist.com/employers/ 
+2021-03-01 21:31:11,036 INFO  [log] getting attribute value from a webelement 
+2021-03-01 21:31:11,091 INFO  [log] ----Clicking on a webElement 
+2021-03-01 21:31:13,613 INFO  [log] getting attribute value from a webelement 
+2021-03-01 21:31:13,655 INFO  [log] Validating actual navigation value  https://jobs.economist.com/careers/with expected value https://jobs.economist.com/careers/ 
+2021-03-01 21:31:13,666 INFO  [log] getting attribute value from a webelement 
+2021-03-01 21:31:13,713 INFO  [log] XXXXXXXXXXXXXXXXXXXXXXX             -END-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-03-01 21:31:14,542 INFO  [log] ************************************************************************************** 
+2021-03-01 21:31:14,542 INFO  [log] $$$$$$$$$$$$$$$$$$$$$ Starting Scenario    Validate Signin and CreateAccount is navigating to correct pages  $$$$$$$$$$$$$$$$$$$$$ 
+2021-03-01 21:31:14,543 INFO  [log] ************************************************************************************** 
+2021-03-01 21:31:32,586 INFO  [log] ----Clicking on a webElement 
+2021-03-01 21:31:34,640 INFO  [log] getting attribute value from a webelement 
+2021-03-01 21:31:34,889 INFO  [log] Validating actual navigation value  https://jobs.economist.com/logon/with expected value https://jobs.economist.com/logon/ 
+2021-03-01 21:31:34,901 INFO  [log] getting attribute value from a webelement 
+2021-03-01 21:31:34,977 INFO  [log] ----Clicking on a webElement 
+2021-03-01 21:31:36,037 INFO  [log] getting attribute value from a webelement 
+2021-03-01 21:31:36,284 INFO  [log] Validating actual navigation value  https://jobs.economist.com/register/with expected value https://jobs.economist.com/register/ 
+2021-03-01 21:31:36,298 INFO  [log] getting attribute value from a webelement 
+2021-03-01 21:31:36,349 INFO  [log] XXXXXXXXXXXXXXXXXXXXXXX             -END-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-03-01 21:31:37,162 INFO  [log] ************************************************************************************** 
+2021-03-01 21:31:37,163 INFO  [log] $$$$$$$$$$$$$$$$$$$$$ Starting Scenario    Validate the user is able to apply the job by sector  $$$$$$$$$$$$$$$$$$$$$ 
+2021-03-01 21:31:37,163 INFO  [log] ************************************************************************************** 
+2021-03-01 21:33:14,419 INFO  [log] XXXXXXXXXXXXXXXXXXXXXXX             -END-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-03-01 21:33:15,249 INFO  [log] ************************************************************************************** 
+2021-03-01 21:33:15,249 INFO  [log] $$$$$$$$$$$$$$$$$$$$$ Starting Scenario    Validate the user is able to search the job with correct text field  $$$$$$$$$$$$$$$$$$$$$ 
+2021-03-01 21:33:15,249 INFO  [log] ************************************************************************************** 
+2021-03-01 21:34:08,501 INFO  [log] ----Clicking on a webElement 
+2021-03-01 21:34:08,687 INFO  [log] ----Clearing, then sending keys: Director 
+2021-03-01 21:34:08,828 INFO  [log] ----Clicking on a webElement 
+2021-03-01 21:34:08,936 INFO  [log] ----Clearing, then sending keys: UK 
+2021-03-01 21:34:09,080 INFO  [log] selecting drop down by value with custom wait 
+2021-03-01 21:34:09,491 INFO  [log] ----Clicking on a webElement 
+2021-03-01 21:34:14,045 INFO  [log] XXXXXXXXXXXXXXXXXXXXXXX             -END-             XXXXXXXXXXXXXXXXXXXXXX 
+2021-03-01 21:34:14,831 INFO  [log] ************************************************************************************** 
+2021-03-01 21:34:14,831 INFO  [log] $$$$$$$$$$$$$$$$$$$$$ Starting Scenario    Validate the user is not able to search the job with incorrect text field  $$$$$$$$$$$$$$$$$$$$$ 
+2021-03-01 21:34:14,831 INFO  [log] ************************************************************************************** 
+2021-03-01 21:34:39,489 INFO  [log] ----Clicking on a webElement 
+2021-03-01 21:34:39,604 INFO  [log] ----Clearing, then sending keys: InvalidTest 
+2021-03-01 21:34:39,762 INFO  [log] ----Clicking on a webElement 
+2021-03-01 21:34:39,936 INFO  [log] ----Clearing, then sending keys: UK 
+2021-03-01 21:34:40,061 INFO  [log] selecting drop down by value with custom wait 
+2021-03-01 21:34:40,287 INFO  [log] ----Clicking on a webElement 
+2021-03-01 21:34:44,259 INFO  [log] XXXXXXXXXXXXXXXXXXXXXXX             -END-             XXXXXXXXXXXXXXXXXXXXXX 
